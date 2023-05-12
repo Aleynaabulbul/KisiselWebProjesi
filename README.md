@@ -1,6 +1,8 @@
 # KisiselWebProjesi
 *Asp.Net
+
 *Mvc
+
 *Entity Framework
 
 
